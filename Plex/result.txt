@@ -1,0 +1,9 @@
+TPoint&&A&&Black&&1&&5&&True&&10&&148
+TPoint&&B&&Black&&1&&5&&True&&120&&40
+TPoint&&C&&Black&&1&&5&&True&&134&&178
+TPoint&&D&&Black&&1&&5&&True&&28&&72
+TPoint&&E&&Black&&1&&5&&True&&10&&148
+TLine&&D E&&Black&&1&&5&&False&&
+TLine&&C D&&Black&&1&&5&&True&&
+TLine&&B C&&Black&&1&&5&&False&&
+TLine&&A B&&Black&&1&&5&&True&&
